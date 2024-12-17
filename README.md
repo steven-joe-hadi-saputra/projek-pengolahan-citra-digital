@@ -1,12 +1,11 @@
-no# projek-pengolahan-citra-digital
+PROJEK PENGOLAHAN CITRA DIGITAL
 
 
 
-
-no# sumber kode 
+Sumber kode 
 sumber kode di buat oleh teman saya dalam bentuk python 
 
-no# peringatan
+Peringatan
 sebelum menjalankan kode ini di perlukan beberapa library sebagai berikut :
 1.
 2.
